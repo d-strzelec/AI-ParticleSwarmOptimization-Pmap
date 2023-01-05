@@ -1,0 +1,12 @@
+.Inline
+_Inline
+*.bak
+*.old
+*.swp
+*.tmp
+
+
+MYMETA.*
+Makefile
+blib
+pm_to_blib
