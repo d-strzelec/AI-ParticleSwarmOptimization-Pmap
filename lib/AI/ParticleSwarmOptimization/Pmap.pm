@@ -156,6 +156,7 @@ AI::ParticleSwarmOptimization::Pmap - Particle Swarm Optimization (object orient
         $sum += ($_ - $offset++) ** 2 for @values;
         return $sum;
     }
+
 =head1 Description
 
 This module is enhancement of on original AI::ParticleSwarmOptimization to support 

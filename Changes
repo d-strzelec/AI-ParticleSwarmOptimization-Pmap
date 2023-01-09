@@ -1,5 +1,8 @@
 Revision history for Perl extension AI::ParticleSwarmOptimization::Pmap.
 
+1.008 Mon, 09 Jan 2023 22:17:01 +0100
+	- Fix in POD.
+
 1.007 Mon, 09 Jan 2023 22:08:55 +0100
 	- First release with Dist::Zilla.
 

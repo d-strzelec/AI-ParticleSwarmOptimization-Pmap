@@ -35,7 +35,8 @@ SYNOPSIS
             $sum += ($_ - $offset++) ** 2 for @values;
             return $sum;
         }
-    =head1 Description
+
+Description
 
     This module is enhancement of on original AI::ParticleSwarmOptimization
     to support multi-core processing with use of Pmap. Below you can find
