@@ -1,8 +1,0 @@
-t/00_load.t
-t/01_pso_multi.t
-lib/AI/ParticleSwarmOptimization/Pmap.pm
-MANIFEST
-README
-Changes
-example/PSOTest-MultiCore.pl
-Makefile.PL
